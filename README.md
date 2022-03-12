@@ -2,13 +2,16 @@
 
 ---
 
-#### I'm a DevOps Engineer based in Hanoi, Vietnam.
+#### I'm a Cloud Architect/DevOps Engineer based in Hanoi, Vietnam.
 
-- 🔭  I’m currently working with ....
+- 🔭  I’m currently working as a SRE Team Leader at **One Mount**
 - 🏢 I helped company to build DevOps Team/Culture and moving to Cloud
 - ⚙️ Love workin with: `AWS`, `GCP`, `K8s`, `.go`, `.yml`
 - 🌱 Learning more about and studying: **Smart Contract, Blockchain, Solidity**
 - 💜 Interests: Football, cryptocurrency enthusiast, foodie.
+
+### Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## Contact me
 
