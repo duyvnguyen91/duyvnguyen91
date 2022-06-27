@@ -4,7 +4,7 @@
 
 #### I'm a Cloud Architect/DevOps Engineer based in Hanoi, Vietnam.
 
-- 🔭  I’m currently working as a SRE Team Leader at **One Mount**
+- 🔭 I used to be a SRE Team Leader at **One Mount** now I'm a freelancer
 - 🏢 I helped company to build DevOps Team/Culture and moving to Cloud
 - 🌱 Learning more about and studying: **Smart Contract, Blockchain, Solidity**
 - 💜 Interests: Football, cryptocurrency enthusiast, foodie.
